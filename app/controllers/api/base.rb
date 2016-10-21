@@ -18,6 +18,7 @@ module API
       api_version: "v1",
       hide_documentation_path: true,
       mount_path: "/api/kms",
+      basePath: "http://localhost:3000/documentation",
       hide_format: true
       )
   end
